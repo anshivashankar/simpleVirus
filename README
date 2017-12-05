@@ -1,0 +1,3 @@
+# Simple Virus
+
+Nothing special; it's just a virus that appends itself to the front of ELF executables and then clones itself. Very much a WIP.
